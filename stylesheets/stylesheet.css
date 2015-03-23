@@ -6,26 +6,22 @@ body {
 	font: 16px;
 	line-height: 1.5;
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-}
-
-.header{
-	width:90%;
-	color: #0066FF;
-	text-align:center;
-	font-size: 30px;
-	line-height: 1.5;
-	font-weight: bold;
-	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-	text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
-               0 0 5px rgba(181, 232, 83, 0.1),
-               0 0 10px rgba(181, 232, 83, 0.1);
-	letter-spacing: -1px;
 	-webkit-font-smoothing: antialiased;
 }
 
-.linkbox{
-	color:#339933;
+.section{
 	width:90%;
+}
+
+.header{
+	color: #0066FF;
+	text-align:center;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+.linkbox{
+	
 }
 
 .link{
