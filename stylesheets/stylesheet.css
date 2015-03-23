@@ -9,6 +9,18 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+a{
+	color:#339933;
+}
+
+a:hover{
+	color:blue;
+}
+
+a:active{
+	color:black;
+}
+
 .section{
 	width:90%;
 }
@@ -24,10 +36,12 @@ body {
 	
 }
 
-.link{
-	color:#339933;
+.content{
+	color:black;
+	font-size:12px;
 }
 
-.link:hover{
-	color:blue;
+.profiles{
+	color: #0066FF;
 }
+
